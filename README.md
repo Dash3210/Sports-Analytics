@@ -4,7 +4,7 @@ This repository contains the source code for a comprehensive computer vision pip
 
 ## Key Features
 
-  * **Multi-Object Detection**: Fine-tuned YOLOv8 model to detect and classify players, referees, goalkeepers, and the ball.
+  * **Multi-Object Detection**: Fine-tuned YOLOv11 model to detect and classify players, referees, goalkeepers, and the ball.
   * **Player Tracking & ID**: Integrated ByteTrack with a Kalman Filter to assign and maintain unique IDs for each player throughout the video.
   * **Jersey Number OCR**: An OCR module to read and identify player jersey numbers, with a temporal voting system for enhanced stability.
   * **Pitch Line Segmentation**: A U-Net model trained to segment and classify the geometric lines of a football pitch.
@@ -15,7 +15,7 @@ This repository contains the source code for a comprehensive computer vision pip
 
 Below is a demonstration of the full pipeline applied to a football match, showcasing object detection, tracking with unique IDs, jersey number recognition, and line segmentation overlays.
 
-![Project Demo](./playback.gif)`)
+![Project Demo](./playback.gif)
 
 ## Tech Stack
 
