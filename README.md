@@ -57,14 +57,6 @@ To set up the environment and run this project locally, please follow these step
 4.  **Download Additional Assets:**
     The curated datasets and final HD output videos are available in the project's public Google Drive folder. Model weights are included in this repository via Git LFS.
 
-## Usage
-
-To run the full analysis pipeline on a video file, execute the main script from the terminal.
-
-```bash
-python run_pipeline.py --source_video "path/to/input.mp4" --output_video "path/to/output.mp4"
-```
-
 ## Methodology
 
 The pipeline processes video frames through a series of sequential modules to achieve a comprehensive analysis.
