@@ -1,0 +1,13 @@
+# Core Deep Learning and Computer Vision Libraries
+torch
+torchvision
+ultralytics
+supervision
+opencv-python-headless
+segmentation-models-pytorch
+easyocr
+
+# Helper Libraries for data handling and progress bars
+numpy
+Pillow
+tqdm
