@@ -57,6 +57,9 @@ To set up the environment and run this project locally, please follow these step
 4.  **Download Additional Assets:**
     The curated datasets and final HD output videos are available in the project's public Google Drive folder. Model weights are included in this repository via Git LFS.
 
+## Usage
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dash3210/Sports-Analytics/blob/main/sports_analysis.ipynb)
+
 ## Methodology
 
 The pipeline processes video frames through a series of sequential modules to achieve a comprehensive analysis.
